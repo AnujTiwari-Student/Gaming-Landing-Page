@@ -1,6 +1,6 @@
-# React.js Dota Landing Page
+# React.js Gaming Landing Page
 
-A beautiful landing page for Dota game Guys using React.js.
+A beautiful landing page for game using React.js.
 
 <div align="center">
     <img src="./src/assets/images/long-screenshot.png"  align="center" />
